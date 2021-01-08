@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Horberlan
+## Hi there 👋, my name is Horberlan
 ![](https://haenfler.sites.grinnell.edu/wp-content/uploads/2017/05/hacker_banner.jpg)
 
 
@@ -10,7 +10,8 @@ Skills: PYTHON / REACT / JS / PHP / RUBY
 
 
 [<img src='http://i.imgur.com/0o48UoR.png (' alt='github' height='40'>](https://github.com/horberlan)   [<img src='http://i.imgur.com/tXSoThF.png' alt='twitter' height='40'>](https://twitter.com/@NadaPois)  
-
+### Quick overview
+ * GitHub stats: <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=horberlan&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=horberlan)  
