@@ -2,7 +2,7 @@
 ![](https://haenfler.sites.grinnell.edu/wp-content/uploads/2017/05/hacker_banner.jpg)
 
 
-Skills: PYTHON / REACT / JS / PHP / RUBY
+ <p align="center" > Skills: PYTHON / REACT / JS / PHP / RUBY </p>
 
 - 🌱 I’m currently learning BioPython. 
 - 👯 I’m looking to collaborate on Blockchain. 
