@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Horberlan
 <!--![](https://haenfler.sites.grinnell.edu/wp-content/uploads/2017/05/hacker_banner.jpg)--> 
 
-- 🌱 I’m currently learning <b>BioPython</b>. 
+- :dna: I’m currently learning <b>BioPython</b>. 
 
 - :computer: I'm looking to collaborate with <b>Machine Learning</b>. 
 
