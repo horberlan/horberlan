@@ -5,15 +5,14 @@
  <p align="center" > Skills: PYTHON / REACT / JS / PHP / RUBY </p>
 
 - 🌱 I’m currently learning BioPython. 
-- 👯 I’m looking to collaborate on Blockchain. 
-- 📫 How to reach me: horberlan@gmail.com or click on follow lins: 
 
+- :computer: I’m looking to collaborate on Blockchain. 
 
-[<img src='http://i.imgur.com/0o48UoR.png (' alt='github' height='40'>](https://github.com/horberlan)   [<img src='http://i.imgur.com/tXSoThF.png' alt='twitter' height='40'>](https://twitter.com/@NadaPois)  
+- :email: How to reach me: horberlan@gmail.com
+
 ### Quick overview
  * GitHub stats:
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=horberlan&show_icons=true&count_private=true)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=horberlan)  
 
