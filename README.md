@@ -4,7 +4,7 @@
 
 - :dna: I’m currently learning <b>BioPython</b>. 
 
-- :computer: I'm looking to collaborate with <b>Machine Learning</b>. 
+- :computer: I'm looking to collaborate with <b>Blockchain</b>. 
 
 - :email: How to reach me: horberlan@gmail.com
 ###  Programming skills:
