@@ -8,13 +8,13 @@
 
 - :email: How to reach me: horberlan@gmail.com
 ###  Programming skills:
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=OS&logo=linux&logoColor=%23ffffff)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=PhP&logo=php&logoColor=%23ffffff)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=JS&logo=javascript&logoColor=%23ffffff)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=Python&logo=python&logoColor=%23ffffff)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Node.js&logo=node.js&logoColor=%23ffffff)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=Ruby&logo=ruby&logoColor=red)
-![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Cpp&logo=C%2B%2B)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=OS&logo=linux&logoColor=%23ffffff)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=PhP&logo=php&logoColor=%23ffffff)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=JS&logo=javascript&logoColor=%23ffffff)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=Python&logo=python&logoColor=%23ffffff)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Node.js&logo=node.js&logoColor=%23ffffff)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=Ruby&logo=ruby&logoColor=red)
+ ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Cpp&logo=C%2B%2B)
 
 ### Quick overview:
 
@@ -22,5 +22,7 @@
  
 <p align="center">
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
-</p>
-    ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
+<p/>
+            
+            
+  ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
