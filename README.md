@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Horberlan
 
 <p align="center">
-  <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="200px"/>
+  <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="180px"/>
 <p/>
 
 
