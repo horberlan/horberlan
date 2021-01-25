@@ -18,5 +18,6 @@
 
 ### Quick overview:
  * GitHub stats:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=horberlan)
-![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
+ 
+    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=horberlan)
+    ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
