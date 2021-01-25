@@ -17,7 +17,10 @@
 ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Cpp&logo=C%2B%2B)
 
 ### Quick overview:
+
  * GitHub stats:
  
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=horberlan)
+<p align="center">
+  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
+</p>
     ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
