@@ -25,7 +25,7 @@
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Java"></a></code><code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Java"></a></code><code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"></a></code>
 ### Quick overview: -->
 
- * GitHub stats:
+ ### GitHub stats:
  
 <p align="center">
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
