@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Horberlan
+## Hi there 👋, my name is Horberlan.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/horberlan/horberlan/main/Peek%2001-02-2021%2022-35.gif"/>
@@ -29,7 +29,7 @@
  ### GitHub stats:
  
 <p align="center">
-  
+  <img scr="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
 <p/>
 
 ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
