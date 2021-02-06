@@ -29,7 +29,7 @@
  ### GitHub stats:
  
 <p align="center">
-  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
 <p/>
 
 ![done](https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png)
