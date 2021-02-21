@@ -7,7 +7,7 @@
 
 
 
-- :dna: I’m currently learning <b>BioPython</b>. 
+- :dna: I’m currently learning <b>BioPython</b> package. 
 
 - :computer: I'm looking to collaborate with <b>Blockchain</b>. 
 
