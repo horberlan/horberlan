@@ -1,12 +1,7 @@
-## Hi there
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/horberlan/horberlan/main/Peek%2001-02-2021%2022-35.gif"/>
-  
-
-<!-- <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="180px"/> -->
+  <!-- <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="180px"/> -->
 <p/>
-
 
 - :dna: I’m currently learning <b>BioPython</b> package. 
 
@@ -31,7 +26,6 @@
 ### Quick overview:
 
  ### GitHub stats:
- -->
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
@@ -40,4 +34,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png">
 <p/>
-
