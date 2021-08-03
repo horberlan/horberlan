@@ -3,7 +3,7 @@
   <!-- <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="180px"/> -->
 <p/>
 
-- :dna: I’m currently learning <b>Biopython</b> package. 
+- :dna: I’m currently learning <b>web3.js</b> package. 
 
 - :computer: I'm looking to collaborate with <b>Blockchain</b>. 
 
