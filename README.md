@@ -8,7 +8,15 @@
 - :computer: I'm looking to collaborate with <b>Blockchain</b>. 
 
 
+
 - :email: How to reach me: horberlan@protonmail.com
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horberlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+
 
 <!--
 ###  Programming skills:
