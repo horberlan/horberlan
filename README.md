@@ -9,7 +9,7 @@
 
 
 
-- :email: How to reach me: horberlan@protonmail.com
+
 
 
 <p align="center">
@@ -18,6 +18,7 @@
 
 
 <!--
+- :email: How to reach me: horberlan@protonmail.com
 ###  Programming skills:
  ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=OS&logo=linux&logoColor=%23ffffff)
  ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=PhP&logo=php&logoColor=%23ffffff)
