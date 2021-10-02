@@ -7,8 +7,7 @@
 
 - :computer: I'm looking to collaborate with <b>Blockchain</b>. 
  
-- <a href="https://codepen.io/horberlan">CodePen Profile</a>
-
+- :email: How to reach me: horberlan@protonmail.com
 
 
 
@@ -19,7 +18,7 @@
 
 
 <!--
-- :email: How to reach me: horberlan@protonmail.com
+
 ###  Programming skills:
  ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=OS&logo=linux&logoColor=%23ffffff)
  ![Skill](https://img.shields.io/travis/rust-lang/rust?color=%23008080&label=PhP&logo=php&logoColor=%23ffffff)
