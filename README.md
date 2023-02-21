@@ -3,11 +3,13 @@
   <!-- <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="100%" height="180px"/> -->
 <p/>
 
-- :dna: I’m currently learning <b>web3.js</b> package. 
+- :dna: I’m currently learning <b>web3 and nostr</b>. 
 
-- :computer: I'm looking to collaborate with <b>Blockchain</b>. 
+- :computer: I'm looking to collaborate with <b>Bitcoin-related</b> projects. 
  
-- :email: How to reach me: horberlan@protonmail.com
+ 
+ You can contact me at
+[snort.social](https://snort.social/p/npub104mccf6v8funj3726asfmrr252et3fw0qkzqy75jdfqjyv4x9fuqqrtjv4).
 
 
 
