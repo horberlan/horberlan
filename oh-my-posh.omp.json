@@ -3,6 +3,7 @@
   "blocks": [
     {
       "alignment": "left",
+
       "segments": [
         {
           "background": "#29315A",
@@ -37,7 +38,18 @@
           "trailing_diamond": "\ue0b4",
           "type": "git"
         },
-
+        {
+          "type": "ytm",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#ffffff",
+          "background": "#FF0000",
+          "properties": {
+            "playing_icon": " ",
+            "paused_icon": " ",
+            "stopped_icon": " "
+          }
+        },
         {
           "foreground": "#C94A16",
           "style": "plain",
@@ -74,13 +86,13 @@
           "type": "crystal"
         },
         {
-          "foreground": "#DE3F24",
+          "foreground": "#AD26DA",
           "properties": {
             "display_mode": "files",
             "fetch_version": true
           },
           "style": "plain",
-          "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}",
+          "template": " {{ if .Error }}{{ .Error }}{{ else }} {{ .Full }}{{ end }}",
           "type": "elixir"
         },
         {
@@ -92,18 +104,6 @@
           "style": "plain",
           "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}",
           "type": "python"
-        },
-        {
-          "type": "spotify",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#1BD760",
-          "properties": {
-            "playing_icon": " ",
-            "paused_icon": " ",
-            "stopped_icon": " "
-          }
         }
       ],
       "type": "prompt"
@@ -123,5 +123,7 @@
     }
   ],
   "console_title_template": "{{.Folder}} {{.Shell}}",
+  "enable_cursor_positioning": true,
+
   "version": 2
 }
