@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="699" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="774" class="">
     <defs>
         <style/>
     </defs>
@@ -100,13 +100,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 14 commits)</small>
+                    <small class="h-details">(computed from last 17 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.9 characters per line of code written</li>
-                        <li>Mostly pushes code around 13:00</li>
+                        <li>Has approximately 31.7 characters per line of code written</li>
+                        <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -176,8 +176,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -252,8 +252,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -283,32 +283,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Elixir</span>
-                                <div class="bar" style="width: 44.687508574376196%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 44.40035733428623%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Svelte</span>
-                                <div class="bar" style="width: 3.1332005333947945%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.117241379310345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.4496649819732315%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.1670180453814543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TeX</span>
-                                <div class="bar" style="width: 0.883284219306477%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 0.7941397177059139%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.7608009702078155%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Dockerfile</span>
+                                <div class="bar" style="width: 0.37577273539396105%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TeX</span>
+                                <div class="bar" style="width: 0.2875826335536895%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.11809316848580631%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11534750759335358%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Batchfile</span>
+                                <div class="bar" style="width: 0.01829551545470788%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -337,7 +347,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 10 Mar 2025, 19:37:51
+                            On 11 Mar 2025, 12:58:19
                         </div>
                     </section>
                 </div>
@@ -347,14 +357,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore: move theme changer to app.js file
+                            chore: clear up session code
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a1a61046</span>
-                            <span class="code">.gitignore</span>
+                            <span class="code">3ce5e97a</span>
+                            <span class="code">lib/live_svelte_pheonix_web/router.ex</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -365,7 +375,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +1,4 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">env.nu<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">.env<br /></span><span class="token prefix unchanged">·</span><span class="token line">env.sh<br /></span><span class="token prefix unchanged">·</span><span class="token line"># The directory Mix will write compiled artifacts to.</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -21,6 +21,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  # get "/", PageController, :home<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">  live "/", CreateSession<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  live "/session", CreateSession<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  live "/session/:session_id", SessionLive<br /></span><span class="token prefix unchanged">·</span><span class="token line">end<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
