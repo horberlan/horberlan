@@ -4,8 +4,5 @@
  <img src="https://streak-stats.demolab.com?user=horberlan&theme=vue&hide_border=true&border_radius=7&card_width=440&card_height=155" alt="GitHub Streak" />
 <p/>
 -->
- 
-![Metrics](https://metrics.lecoq.io/horberlan?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FFortaleza)
-
  <img src="https://raw.githubusercontent.com/horberlan/horberlan/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" />
 
