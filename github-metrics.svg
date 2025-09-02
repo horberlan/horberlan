@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="621" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="828" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -100,12 +100,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 27 commits)</small>
+                    <small class="h-details">(computed from last 29 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.2 characters per line of code written</li>
+                        <li>Has approximately 54.6 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -201,8 +201,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -252,8 +252,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -283,42 +283,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Elixir</span>
-                                <div class="bar" style="width: 20.088104149132388%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 17.733549381496264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 6.721343767347743%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 9.491522744338617%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 4.735060795444371%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 4.180057700667906%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 2.5886861379223896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.2852626170809787%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">MDX</span>
+                                <div class="bar" style="width: 2.175236138007351%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.9134000680479202%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8358297435086748%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 1.4929355514567626%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.317946488558669%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">MDX</span>
-                                <div class="bar" style="width: 0.43031355765270496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 0.0467381766738893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.09437616092953405%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -336,9 +336,46 @@
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">ark-engineer/ark-eng-sparks</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 2 Sept 2025, 17:10:57
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            feat: adjust projects grid and finish clients carousel
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">596fdc1f</span>
+                            <span class="code">public/uploads/logos/arkane.svg</span>
+                            <span class="code">
+                                <span class="snippet additions">++10</span>
+                                <span class="snippet deletions">--0</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;rect width="38" height="38" rx="19" fill="black"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;rect x="3" y="3" width="32" height="32" fill="url(#pattern0_234_4155)"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;defs&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;pattern id="pattern0_234_4155" patternContentUnits="objectBoundingBox" width="1" height="1"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;use xlink:href="#image0_234_4155" transform="scale(0.00925926)"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/pattern&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;image id="image0_234_4155" width="108" height="108" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAABsCAYAAACPZlfNAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAA4ZSURBVHgB7V0LtFZFFZ7LWxABHyC+eCfIS9IoLRWTABFdBYk9AMnUXEkKsqgQBRNdoOUDEZKkUJRCXZCJhsRSyCIq35i8zACxhxKkYoi8dvtbM6ez/3P3ed3733v/e+98a+117zl7z5w5M2dm9uy9Z35jPDw8PDw8PDw8PDw8PDw8PDw8PDw8PGoDiKgnU1vjUfrghmrEtJzpbuNR+uCG+jJZ7GE63XiULriBGjOtpxDoaQ2NR2mCG+cGKsTHTCOMR+mBG6Yd079dQ+0VjbaB6TDjUVrgRrlNNNLPmH4jricbj9IBN8ipTPtd4/yd6TimXkz/dfd2MB1vPEoD3BhPiN40Sdy/R9xfbDxqHk6NP+AaZTPT0YJ3DNPbQgEZYDxqDtwAzZledw1yiGm4IjNO9LI/G4+aAzfAt0RjrGEqU2Rg+fiDkBtrPKofUCKY/imGu74JsgPIWj6ArUxHGY/qRUShmJ8i24DpESF/q/GoPnCF96BwcfweU4cMabox/celwd+exqPqgXmKaaXoLd9TZHprwx7fu0Wk+5U253kUGVzJZzMddJX+BlPLCL8J0yqmHyppD2fa5tIij8HGo+pAhWo8MEqRudTxPmTqo/BHk10CAM9HG9yjiKDCNdUKirhOXIP+NWnYQxqm3wqZ8caj+OCKPZrpTTGcDVRkpAEYgCo/RJHrR6HtERb+9sajuOBK/YloiPkK/0Sm3WI4DPAyU6OILBSXeUn5eVQCZNX4D1zlQo3vqMgsEA1wJ9Mz4vrbijws+jtEj+1rPCoP1xt+Lip/hiJzDoWKBOawlmRdLh+5e3C5aGr+BJEv/Gc+nKCy4EocKioVjdEswoca/3vHR6ONErwfi7SzlbxbML0o0l5iPCoOsialV0Slj1VkpAF4tWxQN+y943iY13oq6YdR6J7ZyNTKeFQMXHnjRWOgFzWJ8OHvesvxYQD+lJLHRJHHCoWPIfcxITPVeOQHWWv8P0RjfEaRKYjjiMmnKVlNMcAFikxXpn2OD02zm/HIB660aaKSH1H4vSlU499lOiEhr+GiQTDEtlRkfiSet5C8ApIdXFl9KbTGQ/XuoMgsFRX83ZT8MOw9LeTHKTKtRY+GAnKu8UiHq1zpu7pBkRlKoRqPOI4WGfLFBolAzYcicrwi8zXxXAyjTYxHMriShpCdswAE0LSP8BGOLQ3AmumpbUze94p0mjX/MCoMJ/i68YiHa4yXRIVdrMhcJvhQ46PG3WZkrfCarbEVhRYTWDd6KDJnit4LO6O35seBK+cbojGgHESt8Scx7XT8XUy9lTyucvxXmZor/GvFMx4nRbnge/OFzCzjUR5k11Tbxdd/liIj1fh7FT5MUn9zfPSSbooMrBsbhYw2pHZxHwSA6OFOxqMQXCm3i8ZYpPB7iuEMSoOmOco5am7Cs86ncNhD4zVVZCaLvOB78+EEAbgyOovGwN8eET5MVDKO45tKHlj8BqFs/6IEHxdZ++Mykd8kRQbzXbDXDGu4i4yHBVfGw6Lypiv8C0SPwNx2eIQfNS/NyPDM0yjURrHWa6fIjBV5wkjsty1xJZxFofF1K0XcIO5L3+D4kBus5CHXZeuiFcvXbUiPCp4tGmR2TPlWC5kppj6DbHzFH0WFXKnITBH8xQofa6cXHB+NdnGEj6UChtNBStq2ZIdPAMNpf0Wmr/gYoIgcaeor+OVHicbAgrVphB+1xndX8rhG5AHlIGrRH+4qfA3pyoV0Yj7J1ECRkWr+AlMfQXao2yR6xhcUmYWiom5S+O0pjK+H2alfhH8k2dhFAEsFzf2CSKsNQuaLigw+nHfFh9Pf1DfwS98qGmOpwscOysDCjuDPVorMLJHHfQr/ZsFfklCWwUIOjddYkZkkZOCbqz9qPr9sBwo3kGPu0NR4GTuoBdGcTqEaj14WtTlKf9o+UsxQEXmpXFyr8DHfvipk6k84Ab/sQ+LFtViLkYL/O4rMK2TV+OUpFSwt/jdnKBP8a4E1H2p+W0VmkMhzGynzXZ0D2fXPIdEzorHxcsGKYM/zlDy+IvKAbFSN7yf4WymjZsdyc0WDaLGP+FAeFzIzTV2Ge+E1KT1jquDj+AbNGr9ZyJwb4WPH5dqkZySUD8NoMFQjaKeXInMKFcZIdjF1FfxyY6hwgdsiwu9IoTUeFddVyUNa21cqDTpa8PFx5HL1U6Fy8USMjLRZLjR1EWQXqUFsPCwWF0b46H33i4qYpuTRicI4DjRo9wj/KArVeDxjkMkJsj1YhtZpG92PYNri+KrFv9aDX+o6UQlPKT1jAIUbFKBat1bymCPyuFvhy6XCQqqg6k32KImgLOtI95lJR+oLVJfUfLIBncG4j4rQ1PhVogIuUfKAGh9ocTAnnRDhn0yFW2K7mgqCyu/yHK/INHSNGeAKU1dAhRYLLZZCzjurqbwaD3dIoEhgCLo0wkeDLxJ5TDeVBBWq+Rh+T1Jk+lO4uN9BCaF2tQb8EmdQeOYTXvzECB9qfLAJD/OOFk49kkJlBcNP8wgfgTvBNlpokK1NEcD5PCg+gtsVflnkQ6ndar4bNp4VL6QNLVeT1QxB9yt82PG2uvTl1mVUXo3/qikSyCoxu0XP1rbg4ti/PUKml6mtoEKLBRa4TSuQxwyRx8MKX8bO51bjMzxfLiOejpGZmCZT8iDrh9oiXuTCCuSBKKnAX4VI4E9E+HBMbhe9r+ib8sgG7WwTPejzikxLIQPUPjWfC329eAHshsyt9lJhOPYUhS/P3Vhkqgj42MRzMEc2S5HBnNzc1BZQYfwgxvfTTE6QDegMFAnMYVGbI7bRBhoaIoSPNVUEsjtgpJp/tSIDTVaegnqdqS2gFCNqhvTRCOCrFBnZ+6p8T5f7gIIPBOu89orMp6lw21LqkUo1DrIL3GDnSbkFbsY8LheNAb9YdF02TPQ+xBUWRY3PUC5paZkbI3OnkHnAlDLILmClGj/R5ARZNTmYwKFIRK3xsOP9xfGhBAwz1QR+1rEULqYx1PdVZLAMCaw66G1nmiKikSkucEZ8UMHbmHAWRjOTDz9gCqwKC8rKylZF+FhnneL+f4kJJwRgfSSVGjLpKMshJ/PFEI/9ZfDBIURhIJfxwP+Fy8pg8bgGZWdCqMEdfD2A739sSglkw802id51yA2NeSkY6mAV6Rx5RmcK/VWlALyjFrQDJeVFITfGlBq4UDdScTFVecZcKj3ExeYPpNCcBi32CFMEFM0lQDaErFiT/36mtXIYIRvJdAZTbmtJNeB5Lut70Ztc5rNNWN5XMFwaDw8PDw8PD4/agIpY0I/hPwjM3MxaD6XIIq4i7ayLfUxb5eJTpMdzoA5vZzrZye1JeB425e1lmfdNcrmguXVJy8/JwujMYmUfmAxg+Tb8Zz/Lf+iuod3mPQoJ6d8wlQVZ01NglO2dQX4nZcP7TDdRedf/XWRDtdu5Nc0nE56FQ1HUSGFFNlgzTssg+wv3Ht1NBpC16k8W1/0oP96Kyz+vaQrrChQcXzzML2mRQjgJQOuFDdx9EL7IoUzYZwxv8Y0mJ8ju8sepArfwl/lMiiy22yKI5zWmK/l6lraGigDrS7hOBrPsBpMPm0xoSssCjHr7TTFA1t+zmOwmOYQyF+1H1Div75MNfW4q7mXqYWQ3mCPkLPUQFLLnKyKmvyNZN8noFHn0sEfJ7hSF87JdinxBDys2Mu++IDsEwj1+D39l2M/1DlNua3wCfs2EPWC5YtXR0Pznc0wjuVy7U2TxvjDcLmbZrfz3p0yTKD3WZJexo8BepueoBn/tL892mQnGWsfXuus5TAiyaWOKg2D+Opg1AdmNCDg8bDo3wMYMSTBEQxEKorOwCRCegYFpCTl/NBriUqBELKEa2uucaQ4j637/EtNlQjN80NjKgj/qIVN5YGiCS+bNLMKuVzzG9BzTbJMNKO8Sfof1uOC/iL1A+u8wPZWWmOXhp0OAzUom/IjBeXxvn0kuJzZ8jHSXB0w27OF81R2jWZUOuOh3Mj0Z3OAMoTndwf8iEOZRzd9D9sBkuXcLPfqQKVQ6MAxi0wKG28s19T4G5zCdyjSE06RO0lyWz7pnRH89HWd6wKvdh/NZl5YPy2Aew6mmaLRfQjtNWUbA436XKe9/S1pSvc20xFQEZIMp4STUtq3i9Bl4V4fFpH3dTfBxBI8sVHF4qc9X0scqHWT9b1A2/kQZIpRY5gFSflKRbPAM5qX5MemgdGj7pxG/gYjmRSRCGJxiJtV6RAc3ykumoiC7pwvaVNwZhNiRuDyG1yyFhrkGGxKTPlFLJOvQhId3Rso7tHMa6IgY/gj34XVWeGqDOd4AVzfzxL0q1RIT4b6OTW7oi5Pp4yo9dyibS49ji14j/ZSAVLXefVCo7IEJz0A+WPA3juHjPXEK3EyFF9tgjj/c9bSZrnfUqFoPqwHCuebFCbhxH5rjJFMxXM90HFPmra0RIHx7GRO80dqeMpjSsH1pftxc5xQpKC5jKGcEllviwICAJc4EU8VIGyvxpazARJsih0MgMUd0YtktJgdYHifdwGqCbajL+PrlnOnR81BZa5jQk66IKC5YP2GOW5qSFSKHkQ+OjZ1j8pUBPzUCCwqsLbBNPhvwyIYG5N0J+hHnmaq1FoDsb5fsogT7nZDFkILQswoFdJK1UeLYIZx8XSbu3+buBaFjSb8kO9DNUxeJe5gnsT0pk7mL5aaTVWKkEnEfypExPc7Fwtkg48S9Pq7seWh93DPKEh6OQjfIqmY7eVi1My98054n83Sa08EkDwG5nStBGVzjN0xLFy2DlHf3KEt6TV6UIRdyLG88PDw8PDw8PDw8PDw8PDw8PDyqA/8DGtwrbRP3KoMAAAAASUVORK5CYII="/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/defs&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
